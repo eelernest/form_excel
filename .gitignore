@@ -1,0 +1,10 @@
+# Ignorar un directorio completo
+/node_modules/
+
+# Ignorar archivos específicos
+archivo.txt
+carpeta/archivo2.js
+
+# Ignorar archivos con una extensión específica
+*.log
+*.csv
